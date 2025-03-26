@@ -3,7 +3,7 @@ A list of every ASCII value and its corresponding character, in C++ code
 
 # Helpful Tips
 
-Numeric -> 48-5
+Numeric -> 48-57
 
 Alphabetic, upper -> 65-90
 
